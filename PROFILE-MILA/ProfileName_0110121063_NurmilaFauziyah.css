@@ -1,0 +1,91 @@
+.directory {
+    width: 60%;
+    border: 2px solid black;
+    margin: auto;
+}
+
+header {
+    display: flex;
+}
+
+img {
+    width: 200px;
+}
+
+.profilname {
+    width: 100%; 
+    padding: 10px; 
+    display: flex;
+}
+
+.profil {
+    width: 100%;
+}
+
+.nama {
+    margin-top: 10px;
+}
+
+.myname {
+    font-size: 30px;
+}
+
+.categories {
+    font-size: 20px;
+    text-align: right;
+}
+
+.kategori {
+    text-align: right;
+}
+
+p {
+    text-align: justify;
+    padding-right: 10px;
+}
+
+.futer {
+    display: flex;
+    gap: 10px;
+}
+
+.video {
+    border: 2px solid black; 
+    width: 300px; 
+    height: 200px;
+}
+
+.fotofoto {
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    display: flex;
+}
+
+.foto {
+    display: flex;
+    gap : 20px;
+    padding : 25px;
+}
+
+.poto1 {
+    display: grid;
+    gap: 20px;
+}
+
+.poto2 {
+    display: grid;
+    gap: 20px;
+}
+
+.poto {
+    width: 60px;
+    height: 60px;
+    border: 2px solid black;
+}
+
+.attachments {
+    width: 245px;
+    height: 185px;
+    border: 2px solid black;
+}
